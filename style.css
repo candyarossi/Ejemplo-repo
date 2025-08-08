@@ -1,4 +1,6 @@
 img{
-    
+    display: flex;
+    flex-direction:row;
+    border:10px solid black;
     height: 300px;
 }
